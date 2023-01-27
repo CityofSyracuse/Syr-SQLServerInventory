@@ -1,0 +1,6 @@
+driver={SQL Server}
+server_ip=xxx.xxx.xxx.xxx
+port=none
+db=name
+user=user
+pwd=password
