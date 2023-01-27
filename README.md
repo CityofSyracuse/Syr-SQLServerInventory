@@ -2,6 +2,7 @@
 
 ## Contacts:
 
+|**Field**|**Information**|
 |-|-|
 |*Author*|Trevor Grant|
 |*Email*|Tgrant@syr.gov|
@@ -17,7 +18,7 @@ Prior to planning database migrations the City of Syracuse is performing an inve
 
 ## Dependencies
 
-This code requires python3 to run (probably > 3.6). Installation instructions for python can be found at [here](https://www.python.org). Additionally, `pyodbc` (included in the requirements) has a dependency on C++ build tools on windows machine (a C compiler is required). Those can be downloaded from microsoft [here](https://visualstudio.microsoft.com/downloads/?q=build+tools). __Note: You do not need to install visual studio. Just the build tools (scroll down to them on the page).__. Finally, you will need the SQL Server driver. Instructions for the installation of this driver can be found [here].(https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16).
+This code requires python3 to run (probably > 3.6). Installation instructions for python can be found at [here](https://www.python.org). Additionally, `pyodbc` (included in the requirements) has a dependency on C++ build tools on windows machine (a C compiler is required). Those can be downloaded from microsoft [here](https://visualstudio.microsoft.com/downloads/?q=build+tools). __Note: You do not need to install visual studio. Just the build tools (scroll down to them on the page).__ Finally, you will need the SQL Server driver. Instructions for the installation of this driver can be found [here](https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16).
 
 ## Entrypoint and Execution.
 
