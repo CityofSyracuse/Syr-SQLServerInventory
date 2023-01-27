@@ -28,7 +28,7 @@ The main entrypoint for the code is `main.py` (clever, I know). This file makes 
 
 1. Download this code:
 
-```git clone https://github.com/CityofSyracuse/Syr-CaminoAPIWrapperDataLake```
+```git clone https://github.com/CityofSyracuse/Syr-SQLServerInventory```
 
 2. Navigate to this directory:
 
